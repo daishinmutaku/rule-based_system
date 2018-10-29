@@ -1,5 +1,6 @@
 individual_report/
-group_report/*
-!group_report/*.tex
-!group_report/*.pdf
+group_report/*.log
+group_report/*.dvi
+group_report/*.aux
+group_report/*.synctex.gz
 *.class
