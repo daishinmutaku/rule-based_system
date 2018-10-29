@@ -1,6 +1,6 @@
-/BackwordChain/src/*.class
-/ForwardChain/src/*.class
-/report/*
-!/report/*.tex
-!/report/*.pdf
+BackwordChain/src/*.class
+ForwardChain/src/*.class
+report/*
+!report/*.tex
+!report/*.pdf
 
