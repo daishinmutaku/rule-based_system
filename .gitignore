@@ -1,1 +1,4 @@
 individual_report/
+group_report/*
+!group_report/*.tex
+!group_report/*.pdf
