@@ -1,6 +1,1 @@
-BackwordChain/src/*.class
-ForwardChain/src/*.class
-report/*
-!report/*.tex
-!report/*.pdf
-
+individual_report/
