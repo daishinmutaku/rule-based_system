@@ -1,5 +1,5 @@
-/*/src/*.class
-/report/*.aux
-/report/*.dvi
-/report/*.log
-/report/*.synctex.gz
+/BackwordChain/src/*.class
+/ForwardChain/src/*.class
+!/report/*.tex
+!/report/*.pdf
+
